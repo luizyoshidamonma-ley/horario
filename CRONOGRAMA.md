@@ -7,11 +7,44 @@
 
     Engenharia de Software B
     
+NPI
+Gabriel Yuki Silva Koga
+Vitor Fatobene Ribeiro
+Victor Andrade
+Sibelly  Vitória Antônio
+Guilherme Peris Soares da Silva
+Felipe Caldeira Akryghti
+Letícia Feitoza
 
 </p>
 </header>
 
 <body>
+
+### Dia dd/mm/yyyy  -   Dia
+*planos: Lorem ipsum*
+
+Lorem ipsum
+
+### Dia 11/09/2026  -   Sexta-feira
+*planos: re-fazer a lista do Guilherme e enviar o trabalho dele*
+
+Refiz alguns dos exercícios do Guilherme e enviei o trabalho dele
+
+### Dia 10/09/2026  -   Quinta-feira
+*planos: revisar e enviar o trabalho do Guilherme de álgebra linear e estudar pra prova do Marcelo de Vetores e matrizes*
+
+Não revisei o trabalho do Guilherme mas fiz o resto das tarefas que eu ainda tinha que entregar, estudei pra prova do Marcelo de vetores e pra prova do Matheus de Metodologias ágeis
+
+### Dia 09/09/2026  -   Quarta-feira
+*planos: fazer a monitoria do pensamento computacional, passar pro portfólio e revisar o conteúdo do Marcelo de POO*
+
+Fiz a monitoria e peguei um tempo pra arrumar meu portfólio (A ordem dos dias especificamente) além de colocar a aula no portfólio, o resto do NPI passei revisando o conteúdo do Marcelo
+
+### Dia 08/09/2026  -   Terça-feira
+*planos: estudar pra prova do matheusinho de metodologias ágeis*
+
+Estudei pra metologoais ágeis pela apresentação do Matheus e com o notebooklm com exercícios
 
 ### Dia 07/09/2026  -   Segunda feira
 Hoje não teve NPI

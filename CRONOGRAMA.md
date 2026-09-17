@@ -26,6 +26,27 @@ Letícia Feitoza
 
 Lorem ipsum
 
+### Dia 17/09/2026  -   Quinta-feira
+*planos: Continuar fazendo o roadmap do Aluno Tutor*
+
+Fiz até a atividade 31, como artefato tenho apenas um doc, colocarei ele em uma pasta dentro da outra pasta 2026 3 - bimestre
+Existe também um slide, 165, [text](https://docs.google.com/presentation/d/1vJrfSwFEaJuPvZTSeQeG_3ZggaNXTeRkqgbystOAub4/edit?slide=id.g3fb7dd16544_1_0#slide=id.g3fb7dd16544_1_0)
+
+### Dia 16/09/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento Computacional, passar para o portfólio e começar a fazer o roadmap do Aluno Tutor*
+
+Fiz a monitoria e já passei pro portfólio, e fiz até o exercício 12 de 48 do Aluno tutor
+
+### Dia 15/09/2026  -   Terça-feira
+*planos: Estudar mas para a prova de matemática do Guilherme*
+
+Estudei para a prova do Guilherme fazendo exercícios
+
+### Dia 14/09/2026  -   Segunda-feira
+*planos: Fazer a monitoria do Londrinense Tech, passar pro portfólio e estudar para a prova do Marcelo de POO*
+
+Fiz a monitoria já passei pro portfólio e estudei pra prova do Marcelo fazendo exercícios baseados no questionário dele
+
 ### Dia 11/09/2026  -   Sexta-feira
 *planos: re-fazer a lista do Guilherme e enviar o trabalho dele*
 

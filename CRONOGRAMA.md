@@ -21,16 +21,42 @@ Letícia Feitoza
 
 <body>
 
-### Dia dd/mm/yyyy  -   Dia
+### Dia dd/mm/2026  -   Dia
 *planos: Lorem ipsum*
 
 Lorem ipsum
+
+### Dia 24/09/2026  -   Quinta-feira
+*planos: Continuar fazendo o Aluno Tutor*
+
+Continuei fazendo a atividade final do Aluno Tutor, fiz a parte 1 e estou na parte 2, fazendo uma resenha 
+[link](https://sites.google.com/edu.unifil.br/alunotutor-trabalhofinal/landing-page/metodologias-%C3%A1geis)
+
+### Dia 23/09/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento computacional, passar para o portfólio e continuar fazendo o Aluno Tutor*
+
+Fiz a monitoria já passei pro portfólio e continuei fazendo a parte 1 da atividade final do Aluno Tutor
+
+### Dia 22/09/2026  -   Terça-feira
+*planos: -----*
+
+Não participei do NPI nesse dia
+
+### Dia 21/09/2026  -   Segunda-feira
+*planos: Fazer a monitoria do Londrinense Tech, passar pro portfólio e continuar fazendo o roadmap do Aluno Tutor*
+
+Fiz a monitoria do Londrinense Tech passei para o portfólio e fiz até a atividade 39 do Aluno Tutor
+
+### Dia 18/09/2026 -   Sexta-feira
+*planos: Continuar o roadmap do Aluno Tutor*
+
+Fiz até a atividade 36.
 
 ### Dia 17/09/2026  -   Quinta-feira
 *planos: Continuar fazendo o roadmap do Aluno Tutor*
 
 Fiz até a atividade 31, como artefato tenho apenas um doc, colocarei ele em uma pasta dentro da outra pasta 2026 3 - bimestre
-Existe também um slide, 165, [text](https://docs.google.com/presentation/d/1vJrfSwFEaJuPvZTSeQeG_3ZggaNXTeRkqgbystOAub4/edit?slide=id.g3fb7dd16544_1_0#slide=id.g3fb7dd16544_1_0)
+Existe também um slide, 165, [link](https://docs.google.com/presentation/d/1vJrfSwFEaJuPvZTSeQeG_3ZggaNXTeRkqgbystOAub4/edit?slide=id.g3fb7dd16544_1_0#slide=id.g3fb7dd16544_1_0)
 
 ### Dia 16/09/2026  -   Quarta-feira
 *planos: Fazer a monitoria do Pensamento Computacional, passar para o portfólio e começar a fazer o roadmap do Aluno Tutor*

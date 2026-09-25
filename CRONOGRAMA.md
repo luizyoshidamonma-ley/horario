@@ -26,6 +26,12 @@ Letícia Feitoza
 
 Lorem ipsum
 
+### Dia 25/09/2026  -   Sexta-feira
+*planos: Continuar a atividade do Aluno Tutor*
+
+Fiz a atividade final do Aluno Tutor mas ainda falta colocar no site da nuvem mestra
+[link](https://sites.google.com/edu.unifil.br/alunotutor-trabalhofinal/landing-page)
+
 ### Dia 24/09/2026  -   Quinta-feira
 *planos: Continuar fazendo o Aluno Tutor*
 

@@ -22,9 +22,34 @@ Letícia Feitoza
 <body>
 
 ### Dia dd/mm/2026  -   Dia
-*planos: Lorem ipsum*
+*planos: Lorem Ipsum*
 
-Lorem ipsum
+Lorem Ipsum
+
+### Dia 02/10/2026  -   Sexta-feira
+*planos: Continuar o projeto do Aluno Tutor*
+
+Continuei com o projeto e passei tudo do local pro remoto
+
+### Dia 01/10/2026  -   Quinta-feira
+*planos: Terminar o Aluno Tutor*
+
+Continuei fazendo o projeto do Aluno Tutor pois descobri que falta muita coisa
+
+### Dia 30/09/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento Computacional e passar pro portfólio Continuar mexendo no Chrome OS*
+
+Continuei tentando arrumar a resolução mas não consegui, continuei o trabalho final do aluno tutor
+
+### Dia 29/09/2026  -   Terça-feira
+*planos: Continuar mexendo no Chrome OS*
+
+Consegui instalar o VS Code mas não consegui arrumar a resolução o resto no NPI passei discutindo a semana tecnológica com o pessoal
+
+### Dia 28/09/2026  -   Segunda-feira
+*planos: Fazer a monitoria do Londrinense Tech, passar para o portfólio e tentar instalar o VS Code no Chrome OS*
+
+Fiz a monitoria já coloquei no portfólio, fiquei mexendo nas configurações do learning book mas não consegui baixar o VS code
 
 ### Dia 25/09/2026  -   Sexta-feira
 *planos: Continuar a atividade do Aluno Tutor*

@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    border: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #e1fcfc;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nome{
+    font-size: 24px;
+    font-family:playfair;
+    background-image: linear-gradient(to right, #e2efff, #e1fcfc);
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.links{
+    display: flex;
+    background-color: #f5e6ff;
+    justify-content: space-evenly;
+    width: 60vw;
+    height: 50vh;
+    justify-self: center;
+    margin-top: 30px;
+    border-radius: 4%;
+}
+
+article div{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+

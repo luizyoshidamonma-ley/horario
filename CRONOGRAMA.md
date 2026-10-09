@@ -26,6 +26,31 @@ Letícia Feitoza
 
 Lorem Ipsum
 
+### Dia 09/10/2026  -   Sexta-feira
+*planos: fazer o BPMN do Eron e continuar o site da renata de desenvolvimento web*
+
+fiz o BPMN e fiz mais um pouco do site, não to sabendo colocar a baseline nas imagens então elas tão desalinhadas
+
+### Dia 08/10/2026  -   Quinta-feira
+*planos: Terminar a tarefa do Marcelo de POO e continuar fazendo a atividade da Renata de desenvolvimento Web*
+
+Terminei a tarefa do Marcelo mas não consegui terminar o desafio de fazer dias barras de vida decrescerem com os ataques
+
+### Dia 07/10/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento Computaciona e passar para o portfólio*
+
+Fiz a monitoria e já passei pro portfólio, o resto do tempo estava em uma entrevista de emprego
+
+### Dia 06/10/2026  -   Terça-feira
+*planos: Terminar o Aluno Tutor e fazer a atividade do Matheusinho de Java*
+
+Finalizei a atividade final do Aluno Tutor e fiz até o exercício 4/10 da atividade do Matheusinho
+
+### Dia 05/10/2026  -   Segunda-feira
+*planos: Fazer a monitoria e continuar fazendo o aluno tutor*
+
+Fiz a monitoria e já passei pro portfólio, não mexi no aluno tutor
+
 ### Dia 02/10/2026  -   Sexta-feira
 *planos: Continuar o projeto do Aluno Tutor*
 

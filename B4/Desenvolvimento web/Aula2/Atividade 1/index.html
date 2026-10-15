@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!-- html pois é a base para escrever qualquer código pra web -->
+<html lang="pt-BR">
+<!-- head onde fica o "cerebro" da página, ela possui os metadados que a página ou o computador lê para mostrar/ renderizar a página para o usuário -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 1</title>
+    <link rel="icon" href="midia/fav_icon.png" type="image/x-icon">
+</head>
+
+<!-- body no qual fica o conteúdo aparente para o usuário, ele é o esqueleto para o CSS e pro JavaScript -->
+
+<body>
+    <!-- header que funciona como um cabeçalho com as informações mais importantes, geralmente é fixo -->
+    <header>
+        <!-- h1 que é o título principal, geralmente um por página -->
+        <h1 id="titulo">
+            Essa é a atividade 1 de desenvolvimento web sobre Pokemon
+        </h1>
+        <nav>
+            <!-- p como um subtítulo/lide -->
+        <p>Unidade Curricular ministrado pela professora Renata Porto Gransoti</p>
+        <p>links para locomoção</p>
+        <section>
+            <a href="interno.html">link interno</a> <br>
+            <a href="#titulo_1">o que é um pokemon?</a> <br>
+            <a href="#titulo_2">TCG</a> <br>
+            <a href="#lista_1">lista ordenada dos pokemons favoritos</a> <br>
+            <a href="#lista_2">lista não ordenada dos meus pokemons favoritos</a> <br>
+        </section>
+        </nav>
+        
+    </header>
+
+    <!-- article para separar os dois subtítulos que a página vai possuir -->
+    <article>
+        <!-- h2 já que vai ser o título dessa seção -->
+        <h2 id="titulo_1">
+            O que é Pokemon?
+        </h2>
+        <!-- p explicando o conteúdo contido no título -->
+        <p style="width: 700px; font-size: 20px;">
+            Pokemon é uma série de Jogos e animações com a principal fundadora participante: Game Freak. O tema de ambos
+            os jogos e desenho é ação e aventura, no qual o protagonista procura, captura e batalha com pokemons,
+            diferentes criaturas que existem pelo mundo, a trama é imensa, com diversas versões sendo criadas, tanto os
+            jogos quanto o desenho.
+        </p>
+        <!-- h3 pois é um título com menos importância que o subtítulo, âncora para a fonte do qual foi retirado as informações -->
+        <h3 id="lista_1">top 5 pokemons mais famosos (de acordo com o site <a
+                href="https://favoritepokemon.vercel.app/%23/#/pokedex" target="_blank">favorite pokemon</a>):</h3>
+        <!-- lista ordenada ol para começar a lista ordenada e li para cada item da lista -->
+            <ol>
+                <li>Mimikyu <img src="midia/mimikyu.png" alt="imagem do Mimikyu" style="height: 100px;"></li>
+                <li>Gengar <img src="midia/gengar.jfif" alt="imagem do Gengar" style="height: 100px;"></li>
+                <li>Sylveon <img src="midia/Sylveon.jfif" alt="imagem da Sylveon" style="height: 100px;"></li>
+                <li>Absol <img src="midia/absol.jfif" alt="imagem do Absol" style="height: 100px;"></li>
+                <li>Lucario <img src="midia/lucairo.jfif" alt="imagem do Lucario" style="height: 100px;"></li>
+            </ol>
+
+        <!-- como o anterior outra lista porém não ordenada ou seja não se utiliza o ol -->
+        <h3 id="lista_2">Meus pokemons preferidos sem ordem de preferência</h3>
+        <ul>
+            <li>Sylveon <img src="midia/Sylveon_2.jfif" alt="imagem do Lucario" style="height: 100px;"> </li>
+            <li>Mew<img src="midia/Mew.jfif" alt="imagem do Mew" style="height: 100px;"> </li>
+            <li>Alcremie<img src="midia/Alcremie.jfif" alt="imagem da Alcremie" style="height: 100px;"> </li>
+            <li>Meowscarada<img src="midia/meowscarada.jfif" alt="imagem da Meowscarada" style="height: 100px;"> </li>
+            <li>Espurr<img src="midia/espurr.jfif" alt="imagem do Espurr" style="height: 100px;"> </li>
+        </ul>
+    </article>
+
+    <!-- Outro article que vai ser a parte 2 da explicação do título (Pokemon) -->
+    <article>
+        <h2 id="titulo_2">Pokemon Trading Card Games (TCG)</h2> <!-- h2 que é o subtítulo -->
+        <p style="width: 700px; font-size: 20px;"> <!-- Diversos parágrafos falando do título e subtítulo -->
+            Como dito antes a saga Pokemon não é apenas o desenho existem também cartinhas colecionaveis do jogo, essas
+            cartas vêm em pacotes que são chamados blisters, apenas um outro nome para eles, e em cada pacote vêm
+            algumas cartas (entre 7 a 12 dependendo da coleção), as coleções são diversas e geralmente acompanham o
+            lançamento de novos pokemons e novos jogos. Cada blister possui pelo menos uma carta rara, o restante é
+            apenas sorte
+        </p> <br>
+        <p>
+            A raridade das cartas é a seguinte: <br>
+            <img src="midia/TCG_raridade.jfif" alt="Imagem com as raridades das cartas ">
+        </p>
+        <p style="width: 700px; font-size: 20px;">
+            Independentemente do alto preço dos blisters a comunidade de pokemon TCG é ativa nas redes sociais e
+            precencialmente em eventos por toda Londrina e Mundo, essa é também uma das magias que me atraem para essa
+            comunidade, com dias de troca, batalha entre muitos outros!
+        </p>
+
+    </article>
+
+    <footer>
+        <p>
+            <a href="#titulo">Começo da página</a>
+        </p>
+    </footer>
+</body>
+
+</html>

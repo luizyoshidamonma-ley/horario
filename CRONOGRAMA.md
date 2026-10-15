@@ -26,6 +26,16 @@ Letícia Feitoza
 
 Lorem Ipsum
 
+### Dia 15/10/2026  -   Quinta-feira
+*planos: Terminar a atividade da Renata e a atividade do Matheusinho*
+
+terminei a atividade da Renata de fazer um site apenas em HTML, ficou bem feio mas foi oq ela pediu, um título, dois subtítulos, parágrafos explicando, imagens, listas. Fiz até o exercício 8 do Matheusinho no restante do tempo, fiquei com bastante dúvida em relação a algumas funções pois não sabia utiliza-las direito mas deu certo e pelo o que eu testei funciona tudo corretamente.
+
+### Dia 14/10/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento Comptacional e continuar a atividade do Matheusinho de recursividade (reintrodução a Java)*
+
+Fiz a monitoria e já passei pro portfólio fiz até o exercício 6 da lista do Matheusinho criando métodos e utilizando a lógica de programação, além de funções em Java
+
 ### Dia 09/10/2026  -   Sexta-feira
 *planos: fazer o BPMN do Eron e continuar o site da renata de desenvolvimento web*
 

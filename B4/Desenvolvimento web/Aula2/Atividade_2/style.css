@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-wrap: anywhere;
+}
+
+body{
+    background-color: antiquewhite;
+
+    img{
+        border: 3px  #f8c8f2;
+        border-radius: 20px;
+        border-style: dashed;
+    }
+}
+
+
+/* Header 
+    título no meio usando flexbox, mudando de tamanho, com cor de fundo, padding e border (radius), também tem o width limitado para não ocupar a tela inteira
+*/
+
+#titulo{
+    font-size: 40px;
+    background-color: rgb(55, 55, 55);
+    color: rgb(142, 253, 132);
+    width: fit-content;
+    padding: 20px;
+    font-family: Fredoka;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    padding-bottom: 20px;
+
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+}
+
+header p{
+    font-size: 22px;
+}
+
+
+nav{
+    margin: 20px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.italic_bold{
+    font-style: italic;
+    font-weight: 700;
+}
+
+/* Articles
+    eles que possuem o conteúdo principal
+ */
+
+
+
+.cards{
+
+    display: flex;
+    flex-direction: column;
+    
+    
+    div{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    article{
+    background-color: #DBBEFC;
+    width: 45%;
+    padding: 30px;
+    border-radius: 20px;
+
+
+
+    ol, ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        li{
+            /* Não sabia que era possivel colocar a numeração da ol dentro/junto do conteúdo mas dá */
+            list-style-position: inside;
+            margin: 10px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        p{
+            text-justify: center;
+            display: inline-block;  /* segunda vez usando o inline-block tive que pedir ajuda pro pessoal que vai no npi */
+            width: 70%;
+            vertical-align: middle;
+            font-size: 30px;
+            font-family: Archivo black;
+
+        }
+
+        img{
+            vertical-align: middle;
+        }
+    }
+    }
+
+    .explicacao{
+        background-color: #bec0fc;
+        display: flex;
+        align-self: center;
+        justify-self: center;
+        margin-bottom: 5%;
+    }
+
+    #lista_2{
+        li{
+            background-color: #F1DAD5;
+            border-radius: 10px;
+        }
+    }
+}
+
+#titulo_2{
+    padding: 30px;
+
+    .TCG_div{
+        display: flex;
+        padding: 20px;
+        flex-direction: row-reverse;
+        justify-content: center;
+        justify-content: space-around;
+
+        section{
+            align-self: center;
+            background-color: #DBBEFC;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    }
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+
+    button{
+        margin-left: 20px;
+        margin-right: 20px;
+        background-color: aquamarine;
+        
+    }
+}
+
+h2, h3{
+
+        align-self: center;
+        font-size: 28px;
+        color: #437e00;
+    
+}

@@ -1,3 +1,4 @@
+/*
 public class Teclado {
     char[] teclas;
     String texto = "";
@@ -113,3 +114,4 @@ public class Teclado {
 }
 
 
+*/

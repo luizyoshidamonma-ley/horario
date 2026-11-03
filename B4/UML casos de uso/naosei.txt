@@ -1,0 +1,29 @@
+1) cliente
+2) levantamento de requisitos
+3) sistema com os requisitos
+
+req funcional não funcional etc
+
+regra de negócio é não funcional
+regra da empresa
+
+
+ATORES E FUNCIONALIDADES
+
+ator é uma raia, interage com o sistema
+só pq é uma raia não é ator
+se tem uma raia e conversa com o sistema é um ator
+EX. se o usuário pede comida, a cozinha prepara e o entregador só entrega; usuário e cozinha são ator entregador não
+
+sistema geralmente não é ator (mas pode ser)
+EX. se o sistema só confirma que o usuário pagou ele não é ator
+mas se o sistema gera o boleto ele começa a ser ator
+
+tarefa de usuário geralmente é funcionalidade
+serviço precisa ver se é funcionalidade
+envio geralmente não é
+manual não é funcionalidade
+
+??? não to entendendo
+ele ta explicando baseado nos slides mas eu não to entendendo
+

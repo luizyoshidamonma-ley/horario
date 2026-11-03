@@ -1,0 +1,23 @@
+private final String		objeto	(quando o construtor criar o objeto o atributo passa e não pode mudar)
+private static final string     (todos os objetos e a classe)	ele pertence a classe
+o primeiro cria o atributo pra cada objeto o segundo (static) cria pra classe inteira ou seja cada objeto usa o mesmo atributo. ambos os casos são constantes
+
+final não muda ou seja constante
+statico também não muda mas só pode ser referenciado e utilizado por outros static
+
+throw new Illegal ("texto");
+
+
+Erro é diferente de exceção
+Erro trava o código, exception da pra tratar
+geralmente com try catch
+
+try {action}
+catch (error)
+finally {action}
+
+catch pode ser generico
+ou um try pode ter vários catch's
+
+da pra criar uma classe que extends from Exception to create personalized Exceptions
+

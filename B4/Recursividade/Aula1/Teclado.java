@@ -1,3 +1,4 @@
+/*
 package Aula1;
 
 public class Teclado {
@@ -38,3 +39,4 @@ public class Teclado {
 }
 
 
+*/

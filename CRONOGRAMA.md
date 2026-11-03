@@ -1,4 +1,4 @@
-## Arquivo markdown para o projeto do NPI ( Núcleo de Práticas de Informática)
+    ## Arquivo markdown para o projeto do NPI ( Núcleo de Práticas de Informática)
 <header>
 <p>
     Luiz Felipe Yoshida Monma
@@ -25,6 +25,71 @@ Letícia Feitoza
 *planos: Lorem Ipsum*
 
 Lorem Ipsum
+
+### Dia dd/mm/2026  -   Dia
+*planos: Lorem Ipsum*
+
+Lorem Ipsum
+
+### Dia 03/11/2026  -   Terça-feira
+*planos: Continuar estudando SQL*
+
+Segunda não teve NPI nem aula por causa do finados, continuei fazendo o curso de SQL parei na parte 70/122 e teve reunião do NPI
+
+### Dia 30/10/2026  -   Sexta-feira
+*planos: Continuar estudando SQL*
+
+Fiquei estudando SQL, tudo na Udemy no curso Banco de dados e SQL(https://www.udemy.com/course/banco-de-dados-sql-postgresql/?couponCode=MT261103G1)
+
+### Dia 29/10/2026  -   Quinta-feira
+*planos: Continuar estudando SQL e atualizar o cronograma*
+
+Continuei estudando SQL
+
+### Dia 28/10/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento Computacional e continuar estudando SQL*
+
+Fiz a monitoria já passei pro portfólio e terminei a atividade do Marcelo de POO II sobre Exceptions em java
+
+### Dia 27/10/2026  -   Terça-feira
+*planos: Estudar Next*
+
+O curso de Next começou a falar de SQL e não entendi nada, então comecei a estudar SQL no Postgresql
+
+### Dia 26/10/2026  -   Segunda-feira
+*planos:  Fazer a monitoria do Londrinense Tech, passar pro portfólio e continuar estudando Nextjs*
+
+Fiz a monitoria e já passei pro portfólio, passei quase todo o resto do tempo tentando arrumar a internet da UniFil no meu computador (que não funciona) e não consegui fazer funcionar
+
+### Dia 26/10/2026  -   Sexta-feira
+*planos: Não participei do NPI nesse dia*
+
+------
+
+### Dia 26/10/2026  -   Quinta-feira
+*planos: Estudei React *
+
+Estudei react pela udemy, to no módulo 2/10
+
+### Dia 21/10/2026  -   Quarta-feira
+*planos: Fazer a monitoria, passar para o portfólio e fazer a tarefa do Marcelo*
+
+Fiz a monitoria, já passei pro portfólio e terminei a tarefa do Marcelo de POO
+
+### Dia 20/10/2026  -   Terça-feira
+*planos: Estudar next.js e fazer uma call do trabalho*
+
+Estudei a estrutura em next e JavaScript e finalizei a call
+
+### Dia 19/10/2026  -   Segunda-feira
+*planos: Fazer a monitoria, fazer a atividade do Marcelo e estudar IFS ERP*
+
+Não teve monitoria do Londrinese Tech. Terminei a atividade do Marcelo de POO com foco nas classes abstratas e interface, exercício simples pra aplicar os conceitos de interface e abstração que funcionam como um placeholder para classes futuras que estendem ou implementam respectivamente. Fiz as UCD's no canva
+
+### Dia 16/10/2026  -   Sexta-feira
+*planos: --- *
+
+Não participei do NPI nesse dia.
 
 ### Dia 15/10/2026  -   Quinta-feira
 *planos: Terminar a atividade da Renata e a atividade do Matheusinho*

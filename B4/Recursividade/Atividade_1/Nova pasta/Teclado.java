@@ -1,3 +1,4 @@
+/*
 public class Teclado {
     char[] teclas;
     String texto = "";
@@ -113,7 +114,8 @@ public class Teclado {
     // 9. Substituir caracteres
     // ta quebrado, faz uma variavel pra verificar se o substitutor ta presente nas teclas dai faz os laços. brb
     
-    /* public void substituirCaracteres(char substituido, char substitutor) throws Exception{
+    */
+/* public void substituirCaracteres(char substituido, char substitutor) throws Exception{
         for (int i=0; i < this.teclas.length; i++){
              if (substitutor == teclas[i]){
                 for (int j=0; j< this.texto.length(); j++){
@@ -125,9 +127,11 @@ public class Teclado {
                 throw new Exception("O substitutor não pertence ao array de teclas");
             }
         }
-       */
+       *//*
+
     }
     
 }
 
 
+*/

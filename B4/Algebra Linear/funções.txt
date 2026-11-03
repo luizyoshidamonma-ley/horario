@@ -1,0 +1,31 @@
+R = { (x,y) E (pertence) MxN | y=2x}
+
+MxN = { (0,0) (0,2) (1,0) (1,2) } 
+isso se x = {0,1} e y = {0,2}
+e para satisfazer y=2 (0,2) ; (1,2) e (0,0) satisfazem
+
+se a relação f (esse negócio de cima) é uma função denotamos	(em A x B)
+f: a -> b (A x B)
+
+x -> f(x) = y
+pega um x, passa na função e acha o y, pegando várias coordenadas da a função
+
+pra ser função tem que ter todos os elementos do domínio com uma relação
+então se A tem 3 elementos todos os 3 tem que fazer uma relação com B, nem mais nem menos, só 1
+
+uma função (linha no plano cartesiano) nunca vai ter um lugar que vai ter dois pontos
+faz uma reta em cima da função e nunca vai ter dois pontos nessa reta. (só no eixo X então de cima pra baixo)
+se tiver não é uma reta
+
+
+domínio ; contradomíno ; imagem
+
+domínio ta dentro do conjunto, então A x B por exemplo
+contradomínio é todos as possíveis transformações
+imagem é oq gera
+
+se eu tiver um A = {1,2,3} B = {2,3,4}
+A é o domínio (na esquerda que faz as setas)
+B é o contradomínio (direita que recebe as setas)
+C que é a imagem é os (1,2) (1,3) (1,4)
+

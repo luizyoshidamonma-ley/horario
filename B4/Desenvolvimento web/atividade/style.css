@@ -12,6 +12,7 @@ body{
     margin: 0;
     min-height: 100vh;
     flex-direction: column;
+    padding-top: 48px;
 }
 
 main{
@@ -39,7 +40,14 @@ nav {
     padding: 5px;
     padding-left: 20px;
     padding-right: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
 }
+
 
 article p{
     display: flex;
@@ -47,6 +55,16 @@ article p{
     align-items: center;
     font-size: 20px;
     padding: 15px;
+    align-self: flex-end;
+}
+
+#start p{
+    display: flex;
+    width: 100vw;
+    height: 40%;
+    font-size: 50px;
+    align-items: center;
+
 }
 
 body footer{
@@ -59,6 +77,25 @@ body footer{
 body footer img{
     border-radius: 0;
 }
+
+nav img{
+    display: flex;
+}
+
+#topolink img{
+    margin-top: 5px;
+    display: flex;
+    height: 30px;
+    align-self: center;
+    justify-self: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+
 
 .nome{
     font-size: 24px;
@@ -167,7 +204,6 @@ div div section{
 article div div{
     display: flex;
     gap: 80px;
-    
 }
 
 article div div section{
@@ -186,5 +222,50 @@ article div div section{
 
 .comidas_cards div p{
     width: fit-content;
+}
+
+/*   Evoluções, após as comidas   */
+
+.evolucoes{
+    display: flex;
+    width: 100%;
+    
+}
+
+.sprigatito{
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    padding: 20px;
+    background-color: #545454;
+    justify-content: center;
+}
+
+.sprigatito_titulo {
+    color: #ffffff;
+        ~ section{
+            color: rgb(6, 255, 22);
+        }
+    align-self: center;
+}
+
+.piplup{
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    padding: 20px;
+    background-color: #545454;
+}
+
+.piplup_titulo {
+    color: #f3f8f9;
+    ~ section{
+        color: #00dbf4;
+    }
+    align-self: center;
 }
 

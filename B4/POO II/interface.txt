@@ -1,0 +1,38 @@
+interface
+contrato	( contrato de componentes)
+usado p definir tipos diferentes
+não possui construtor
+normalmente não se declara atributos e se tiver são finais
+implementar a outra classe
+não podem ser instanciadas 
+
+a interface é um tipo de classe
+
+não usa o extends, ela não é uma herança.
+ela utiliza outra classe ou seja implementa ela
+implements
+
+todos os métodos da interface são abstratos
+mas nem todos vão falar abstract
+
+se for um método da interface ela é imediatamente abstract mesmo não falando isso
+
+pra fazer uma interface:
+interface (não tem classe)
+public interface nome {
+}
+
+
+o java não permite herança múltipla, uma classe tem um pais só, nunca dois
+se quiser dois tem que fazer uma interface de um abstract (mas não é perfeito)
+
+
+
+operador ternária é a mesma coisa que if 
+comparação ? verdadeiro : falso	(estrutura)
+condição	opção 1  ou   opção 2 (: é o ou)
+"Tá vivo: %s",this.vivo?"Sim":"Não"
+
+
+se eu quiser não criar um construtor da classe filha eu posso,
+tem o padrão (fica sem parâmetro) ent todos os atributos tem que já estar na classe

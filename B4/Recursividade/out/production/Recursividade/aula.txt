@@ -1,0 +1,78 @@
+recursividade 
+
+trabalha com o conceito de loops
+se chama 
+
+função recebe o valor de parada 
+
+função ABC
+func (x): 
+  if (x < 0):
+    return;
+  ABC(x-1);	(se chama aqui)
+  print(x);
+  
+
+tem que ter uma modificação se não fica em loop
+
+
+com x=5	
+
+função ABC
+func (x): 
+  if (x < 0):
+    return;
+  ABC(x-1);	
+  print(x);
+  return(x);
+  
+
+1)
+x=5 então x<0 falso, pula o return ent chama a função dnv com x-1
+2)
+x=4 então x<0 falso pula return 
+isso vai até a condição
+x = 0 então x<0 é false ent x=-1
+-1 < 0 é true ent do retorno vazio, 
+volta pro x=0 mas eu printo o 0 e eu retorno x ou seja 0
+eu volto pro de cima x=1 printo o 1 e retorno ele pra cima
+vai subindo
+
+não entendi, pq do -1 eu printo o 0? eu do return no -1 e ele vai pra onde? o -1 vai pra função do 0, sim, mas pq eu preciso do return x no final?
+ata volta o valor que 
+
+PILHA
+
+L ast
+I n
+F irst
+O out
+
+O primeiro que entra é o primeiro que sai
+
+o laço e a recursão com a pilha
+como eu coloco
+5
+4
+3
+2
+1
+0
+-1
+
+pra tirar fica na ordem
+-1
+0
+1
+2
+3
+4
+5
+
+ent eu coloquei o -1 por último mas eu tiro ele primeiro ou seja volto na recursão com o -1 
+
+
+como ver a call stack na recursividade?
+
+head recursion - recursividade no topo		(se for um problema que precisa ser feita na ordem reversa (5 4 3 2 1)
+tail recursion - recursividade em baixo		(não guarda a call stack na memoria (menos memoria))

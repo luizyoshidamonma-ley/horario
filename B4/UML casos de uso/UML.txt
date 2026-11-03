@@ -1,0 +1,68 @@
+Orientação a objetos?
+
+forma de pensar os sistemas
+ent tudo é classe / objeto / atributo
+classe = jogo
+objeto = lol
+atributo = desenvolvedores jogadores etc
+ação = rodar os servidores pro lol
+
+livro
+senhor dos anéis
+titulo e autor
+abrir / empresar e devolver o livro
+
+Animal coelho = new Animal();
+tipo nome = new classe();
+
+Login não é caso de uso
+login é esperado ent já tem que ter
+
+
+
+
+Diagrama caso de uso
+
+ator
+SA	System Actor
+
+Caso de uso
+elipse que tem a ação / funcionalidade
+
+Associação
+linha entre ator e caso de uso
+
+Fronteira
+o que define o sistema tipo uma pool
+
+
+um ator não é só pessoa
+pode ser um hardware tipo um medidor de radiação
+software tipo um sistema integrado (troca de mensagem)
+ator é quem interage com o sistema
+fora do sistema
+
+
+Exemplo
+motorista(ator) - > sistema estacionamento -> sistema pagamento (ator)
+motorista(ator) -> imprimir ticket -> impressora (ator)
+
+tem níveis
+principal geralmente tem mais funcionalidade (foco) mais interesse no resultado do caso de uso
+secundário
+
+ex. cliente de um caixa
+mas pode mudar, o funcionario pode ser o que mais interage com o sistema
+
+
+caso de uso foca numa funcionalidade
+geralmente infinitivo ex. pagar
+
+granularidade
+não pode deixar grande demais nem pequeno demais
+Ex. pequeno -> grande
+clicar em parar -> pagar pedido -> usar o aplicativo
+1ª muito pequeno 2ª ok 3ª muito abrangente
+
+
+

@@ -21,15 +21,56 @@ Letícia Feitoza
 
 <body>
 
-### Dia dd/mm/2026  -   Dia
-*planos: Lorem Ipsum*
+### Dia 19/11/2026  -   Quinta-feira
+*planos: Continuar fazendo um projeto do trabalho usando Next*
 
-Lorem Ipsum
+são três paginas, to fazendo a home/landing page, é um catálogo de filmes com os detalhes dos filmes as outras duas páginas, tem filtro e i18n / internacionalização
 
-### Dia dd/mm/2026  -   Dia
-*planos: Lorem Ipsum*
+### Dia 18/11/2026  -   Quarta-feira
+*planos: Terminar o curso de next*
 
-Lorem Ipsum
+Terminei o curso de Next mas não consegui dar Deploy
+
+### Dia 17/11/2026  -   Terça-feira
+*planos: Continuar estudando Next*
+
+parei no 137 mas fiquei mudando de sala e caiu a luz então não fiz mais nada
+
+
+### Dia 16/11/2026  -   Segunda-feira
+*planos: Continuar estudando Next*
+
+parei no 129/143
+
+### Dia 12/11/2026  -   Quita-feira
+*planos: Continuar estudando Next*
+
+parei no 114/143
+
+### Dia 11/11/2026  -   Quarta-feira
+*planos: Continuar estudando Next*
+
+parei no 101/143
+
+### Dia 10/11/2026  -   Terça-feira
+*planos: Pegar o certificado do pensamento e continuar estudano Next*
+
+Participei da cerimonia de fechamento do projeto do Pensamento computacional e parei no 90/143
+
+### Dia 09/11/2026  -   Segunda-feira
+*planos: Continuar estudando NextJs*
+
+Continuei estudando Next, 87/143
+
+### Dia 05/11/2026  -   Quinta-feira
+*planos: Terminar a atividade da Renata de desenvolvimento web*
+
+To quase terminano a atividade da Renata, falta só finalizar o site interno, tá no meu [GitHub](https://github.com/luizyoshidamonma-ley/Atividade-4---HTML-e-CSS-Tabelas) e no pages
+
+### Dia 04/11/2026  -   Quarta-feira
+*planos: Fazer a monitoria do Pensamento e participar de uma reunião do trabalho*
+
+Fiz a monitoria já passei pro portfólio e terminei a reunião
 
 ### Dia 03/11/2026  -   Terça-feira
 *planos: Continuar estudando SQL*
